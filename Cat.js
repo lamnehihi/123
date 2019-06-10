@@ -3,3 +3,4 @@ function cat() {
 	age : "3",
 	feeded : false
 }
+module.exports = cat;
